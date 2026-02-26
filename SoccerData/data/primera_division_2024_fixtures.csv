@@ -1,0 +1,281 @@
+match_id,date,home_team,away_team,home_goals,away_goals,status,round
+1210625,2024-07-19T19:00:00-06:00,AD Guanacasteca,San Carlos,0,3,FT,Apertura - 1
+1210627,2024-07-19T20:00:00-06:00,Puntarenas FC,Municipal Liberia,0,0,FT,Apertura - 1
+1210624,2024-07-20T17:00:00-06:00,CS Cartagines,Santa Ana,4,0,FT,Apertura - 1
+1210628,2024-07-20T18:00:00-06:00,Sporting San Jose,Deportivo Saprissa,3,1,FT,Apertura - 1
+1210626,2024-07-20T20:00:00-06:00,Perez Zeledon,CS Herediano,0,0,FT,Apertura - 1
+1210623,2024-07-21T18:00:00-06:00,LD Alajuelense,Santos DE Guapiles,2,1,FT,Apertura - 1
+1210629,2024-07-23T17:00:00-06:00,Santa Ana,Sporting San Jose,0,2,FT,Apertura - 2
+1210630,2024-07-23T20:00:00-06:00,CS Herediano,Puntarenas FC,2,0,FT,Apertura - 2
+1210632,2024-07-24T18:00:00-06:00,San Carlos,CS Cartagines,0,0,FT,Apertura - 2
+1210631,2024-07-24T18:00:00-06:00,Municipal Liberia,LD Alajuelense,1,2,FT,Apertura - 2
+1210633,2024-07-24T20:30:00-06:00,Deportivo Saprissa,AD Guanacasteca,3,1,FT,Apertura - 2
+1210634,2024-07-25T18:00:00-06:00,Santos DE Guapiles,Perez Zeledon,3,3,FT,Apertura - 2
+1210637,2024-07-27T19:00:00-06:00,AD Guanacasteca,CS Herediano,2,1,FT,Apertura - 3
+1210640,2024-07-27T20:00:00-06:00,San Carlos,Municipal Liberia,1,2,FT,Apertura - 3
+1210636,2024-07-28T11:00:00-06:00,CS Cartagines,Santos DE Guapiles,2,1,FT,Apertura - 3
+1210638,2024-07-28T15:00:00-06:00,Puntarenas FC,Deportivo Saprissa,2,3,FT,Apertura - 3
+1210635,2024-07-28T18:00:00-06:00,LD Alajuelense,Santa Ana,1,1,FT,Apertura - 3
+1210639,2024-07-29T19:00:00-06:00,Perez Zeledon,Sporting San Jose,0,2,FT,Apertura - 3
+1210646,2024-08-02T19:00:00-06:00,Santos DE Guapiles,Puntarenas FC,0,0,FT,Apertura - 4
+1210643,2024-08-03T15:00:00-06:00,Sporting San Jose,AD Guanacasteca,2,2,FT,Apertura - 4
+1210645,2024-08-03T17:00:00-06:00,Deportivo Saprissa,Municipal Liberia,2,2,FT,Apertura - 4
+1210644,2024-08-03T20:00:00-06:00,Santa Ana,CS Herediano,1,1,FT,Apertura - 4
+1210641,2024-08-04T11:00:00-06:00,CS Cartagines,LD Alajuelense,0,1,FT,Apertura - 4
+1210642,2024-08-04T16:00:00-06:00,Perez Zeledon,San Carlos,0,0,FT,Apertura - 4
+1210650,2024-08-09T20:00:00-06:00,Municipal Liberia,Santos DE Guapiles,4,0,FT,Apertura - 5
+1210648,2024-08-10T17:00:00-06:00,AD Guanacasteca,CS Cartagines,1,3,FT,Apertura - 5
+1210652,2024-08-10T18:00:00-06:00,San Carlos,Santa Ana,5,1,FT,Apertura - 5
+1210647,2024-08-10T20:00:00-06:00,LD Alajuelense,Perez Zeledon,2,1,FT,Apertura - 5
+1210651,2024-08-11T16:00:00-06:00,Puntarenas FC,Sporting San Jose,1,2,FT,Apertura - 5
+1210649,2024-08-11T18:00:00-06:00,CS Herediano,Deportivo Saprissa,2,0,FT,Apertura - 5
+1210658,2024-08-16T20:00:00-06:00,Santa Ana,Deportivo Saprissa,0,3,FT,Apertura - 6
+1210654,2024-08-17T18:00:00-06:00,Santos DE Guapiles,San Carlos,0,4,FT,Apertura - 6
+1210653,2024-08-18T11:00:00-06:00,CS Cartagines,CS Herediano,3,1,FT,Apertura - 6
+1210655,2024-08-18T16:00:00-06:00,Perez Zeledon,Puntarenas FC,1,0,FT,Apertura - 6
+1210657,2024-08-18T18:00:00-06:00,Sporting San Jose,Municipal Liberia,1,0,FT,Apertura - 6
+1210663,2024-08-24T19:00:00-06:00,San Carlos,LD Alajuelense,0,0,FT,Apertura - 7
+1210664,2024-08-24T20:00:00-06:00,Deportivo Saprissa,CS Cartagines,1,0,FT,Apertura - 7
+1210661,2024-08-25T15:00:00-06:00,Municipal Liberia,Perez Zeledon,1,0,FT,Apertura - 7
+1210662,2024-08-25T15:00:00-06:00,Puntarenas FC,Santa Ana,1,2,FT,Apertura - 7
+1210660,2024-08-25T18:00:00-06:00,CS Herediano,Sporting San Jose,2,0,FT,Apertura - 7
+1210670,2024-08-30T19:00:00-06:00,Sporting San Jose,San Carlos,2,3,FT,Apertura - 8
+1210669,2024-08-30T20:00:00-06:00,Santa Ana,Municipal Liberia,2,1,FT,Apertura - 8
+1210666,2024-08-31T18:00:00-06:00,CS Cartagines,Puntarenas FC,1,0,FT,Apertura - 8
+1210668,2024-08-31T20:00:00-06:00,Santos DE Guapiles,CS Herediano,3,4,FT,Apertura - 8
+1210665,2024-09-01T16:00:00-06:00,LD Alajuelense,Deportivo Saprissa,1,1,FT,Apertura - 8
+1210667,2024-09-01T19:00:00-06:00,Perez Zeledon,AD Guanacasteca,1,1,FT,Apertura - 8
+1210656,2024-09-07T19:00:00-06:00,LD Alajuelense,AD Guanacasteca,4,0,FT,Apertura - 6
+1210674,2024-09-10T16:00:00-06:00,Municipal Liberia,CS Cartagines,3,0,FT,Apertura - 9
+1210672,2024-09-10T20:00:00-06:00,CS Herediano,San Carlos,1,2,FT,Apertura - 9
+1210675,2024-09-10T20:30:00-06:00,Sporting San Jose,Santos DE Guapiles,1,1,FT,Apertura - 9
+1210671,2024-09-11T16:00:00-06:00,AD Guanacasteca,Santa Ana,1,0,FT,Apertura - 9
+1210676,2024-09-11T20:00:00-06:00,Deportivo Saprissa,Perez Zeledon,2,2,FT,Apertura - 9
+1210673,2024-09-12T15:00:00-06:00,Puntarenas FC,LD Alajuelense,1,1,FT,Apertura - 9
+1210678,2024-09-14T16:00:00-06:00,Santos DE Guapiles,Deportivo Saprissa,1,2,FT,Apertura - 10
+1210679,2024-09-14T16:00:00-06:00,Municipal Liberia,AD Guanacasteca,0,1,FT,Apertura - 10
+1210677,2024-09-15T11:00:00-06:00,CS Cartagines,Sporting San Jose,1,0,FT,Apertura - 10
+1210682,2024-09-15T16:00:00-06:00,Santa Ana,Perez Zeledon,0,0,FT,Apertura - 10
+1210681,2024-09-15T18:00:00-06:00,San Carlos,Puntarenas FC,2,1,FT,Apertura - 10
+1210683,2024-09-17T20:00:00-06:00,CS Herediano,Municipal Liberia,5,4,FT,Apertura - 11
+1210688,2024-09-18T16:00:00-06:00,Santa Ana,Santos DE Guapiles,1,1,FT,Apertura - 11
+1210687,2024-09-18T18:30:00-06:00,Puntarenas FC,AD Guanacasteca,0,0,FT,Apertura - 11
+1210684,2024-09-18T20:00:00-06:00,Deportivo Saprissa,San Carlos,3,2,FT,Apertura - 11
+1210686,2024-09-19T20:00:00-06:00,Perez Zeledon,CS Cartagines,0,0,FT,Apertura - 11
+1210685,2024-09-19T20:00:00-06:00,Sporting San Jose,LD Alajuelense,0,1,FT,Apertura - 11
+1210690,2024-09-21T20:00:00-06:00,CS Herediano,Santa Ana,2,1,FT,Apertura - 12
+1210694,2024-09-22T15:00:00-06:00,Puntarenas FC,Perez Zeledon,1,1,FT,Apertura - 12
+1210692,2024-09-22T16:00:00-06:00,LD Alajuelense,CS Cartagines,2,1,FT,Apertura - 12
+1210689,2024-09-22T19:00:00-06:00,AD Guanacasteca,Sporting San Jose,2,1,FT,Apertura - 12
+1210693,2024-09-23T19:00:00-06:00,San Carlos,Santos DE Guapiles,2,2,FT,Apertura - 12
+1210695,2024-09-27T20:00:00-06:00,Santa Ana,San Carlos,3,4,FT,Apertura - 13
+1210699,2024-09-28T15:00:00-06:00,Santos DE Guapiles,Municipal Liberia,0,1,FT,Apertura - 13
+1210697,2024-09-28T17:00:00-06:00,CS Cartagines,AD Guanacasteca,1,1,FT,Apertura - 13
+1210698,2024-09-28T20:00:00-06:00,Deportivo Saprissa,CS Herediano,1,0,FT,Apertura - 13
+1210696,2024-09-29T17:00:00-06:00,Perez Zeledon,LD Alajuelense,2,2,FT,Apertura - 13
+1210700,2024-09-30T19:00:00-06:00,Sporting San Jose,Puntarenas FC,1,0,FT,Apertura - 13
+1210702,2024-10-04T20:00:00-06:00,Municipal Liberia,Santa Ana,2,3,FT,Apertura - 14
+1210701,2024-10-05T16:00:00-06:00,AD Guanacasteca,Perez Zeledon,1,0,FT,Apertura - 14
+1210703,2024-10-05T19:00:00-06:00,San Carlos,Sporting San Jose,2,0,FT,Apertura - 14
+1210705,2024-10-05T20:00:00-06:00,CS Herediano,CS Cartagines,0,2,FT,Apertura - 14
+1210704,2024-10-06T15:00:00-06:00,Santos DE Guapiles,LD Alajuelense,1,3,FT,Apertura - 14
+1210706,2024-10-06T16:00:00-06:00,Deportivo Saprissa,Puntarenas FC,2,3,FT,Apertura - 14
+1210659,2024-10-12T19:00:00-06:00,AD Guanacasteca,Santos DE Guapiles,2,1,FT,Apertura - 7
+1210710,2024-10-16T16:00:00-06:00,Perez Zeledon,Santos DE Guapiles,3,1,FT,Apertura - 15
+1210707,2024-10-16T20:00:00-06:00,LD Alajuelense,Municipal Liberia,2,2,FT,Apertura - 15
+1210712,2024-10-16T20:00:00-06:00,Puntarenas FC,CS Herediano,0,2,FT,Apertura - 15
+1210708,2024-10-17T16:00:00-06:00,CS Cartagines,San Carlos,4,4,FT,Apertura - 15
+1210711,2024-10-17T18:00:00-06:00,Sporting San Jose,Santa Ana,1,0,FT,Apertura - 15
+1210709,2024-10-17T20:00:00-06:00,AD Guanacasteca,Deportivo Saprissa,2,0,FT,Apertura - 15
+1210714,2024-10-19T17:00:00-06:00,Municipal Liberia,Puntarenas FC,4,2,FT,Apertura - 16
+1210713,2024-10-19T20:00:00-06:00,CS Herediano,LD Alajuelense,1,1,FT,Apertura - 16
+1210717,2024-10-20T15:00:00-06:00,Santos DE Guapiles,AD Guanacasteca,4,0,FT,Apertura - 16
+1210715,2024-10-20T16:00:00-06:00,Deportivo Saprissa,Sporting San Jose,1,0,FT,Apertura - 16
+1210718,2024-10-20T18:30:00-06:00,San Carlos,Perez Zeledon,1,1,FT,Apertura - 16
+1210716,2024-10-21T20:00:00-06:00,Santa Ana,CS Cartagines,2,1,FT,Apertura - 16
+1210722,2024-10-25T19:00:00-06:00,Puntarenas FC,Santos DE Guapiles,1,0,FT,Apertura - 17
+1210723,2024-10-25T20:00:00-06:00,Perez Zeledon,Santa Ana,2,1,FT,Apertura - 17
+1210720,2024-10-26T18:00:00-06:00,CS Cartagines,Deportivo Saprissa,2,1,FT,Apertura - 17
+1210719,2024-10-26T20:00:00-06:00,LD Alajuelense,San Carlos,3,1,FT,Apertura - 17
+1210721,2024-10-27T15:00:00-06:00,AD Guanacasteca,Municipal Liberia,2,0,FT,Apertura - 17
+1210724,2024-10-27T16:00:00-06:00,Sporting San Jose,CS Herediano,1,3,FT,Apertura - 17
+1210729,2024-11-01T19:00:00-06:00,San Carlos,AD Guanacasteca,2,2,FT,Apertura - 18
+1210726,2024-11-01T20:00:00-06:00,Municipal Liberia,Sporting San Jose,1,1,FT,Apertura - 18
+1210728,2024-11-02T16:00:00-06:00,Santos DE Guapiles,CS Cartagines,1,0,FT,Apertura - 18
+1210727,2024-11-02T20:00:00-06:00,Deportivo Saprissa,LD Alajuelense,3,0,FT,Apertura - 18
+1210730,2024-11-03T11:00:00-06:00,Santa Ana,Puntarenas FC,1,1,FT,Apertura - 18
+1210725,2024-11-03T16:00:00-06:00,CS Herediano,Perez Zeledon,4,1,FT,Apertura - 18
+1210732,2024-11-05T20:00:00-06:00,CS Cartagines,Municipal Liberia,2,1,FT,Apertura - 19
+1210736,2024-11-06T19:00:00-06:00,San Carlos,CS Herediano,0,0,FT,Apertura - 19
+1210731,2024-11-06T20:00:00-06:00,LD Alajuelense,Sporting San Jose,1,0,FT,Apertura - 19
+1210734,2024-11-07T15:00:00-06:00,Santos DE Guapiles,Santa Ana,1,0,FT,Apertura - 19
+1210735,2024-11-07T20:00:00-06:00,Perez Zeledon,Deportivo Saprissa,1,2,FT,Apertura - 19
+1210739,2024-11-09T18:00:00-06:00,Puntarenas FC,CS Cartagines,3,2,FT,Apertura - 20
+1210740,2024-11-09T20:00:00-06:00,CS Herediano,AD Guanacasteca,2,1,FT,Apertura - 20
+1210738,2024-11-10T11:00:00-06:00,Santa Ana,LD Alajuelense,0,2,FT,Apertura - 20
+1210741,2024-11-10T16:00:00-06:00,Deportivo Saprissa,Santos DE Guapiles,3,3,FT,Apertura - 20
+1210742,2024-11-10T18:00:00-06:00,Sporting San Jose,Perez Zeledon,0,1,FT,Apertura - 20
+1210737,2024-11-19T16:00:00-06:00,Municipal Liberia,San Carlos,1,2,FT,Apertura - 20
+1210680,2024-11-19T20:00:00-06:00,LD Alajuelense,CS Herediano,2,0,FT,Apertura - 10
+1210733,2024-11-20T19:00:00-06:00,AD Guanacasteca,Puntarenas FC,2,1,FT,Apertura - 19
+1210745,2024-11-23T16:00:00-06:00,Santos DE Guapiles,Sporting San Jose,2,1,FT,Apertura - 21
+1210748,2024-11-23T19:00:00-06:00,San Carlos,Deportivo Saprissa,0,0,FT,Apertura - 21
+1210743,2024-11-23T20:00:00-06:00,LD Alajuelense,Puntarenas FC,4,0,FT,Apertura - 21
+1210744,2024-11-24T11:00:00-06:00,CS Cartagines,Perez Zeledon,2,0,FT,Apertura - 21
+1210747,2024-11-24T16:00:00-06:00,Municipal Liberia,CS Herediano,1,1,FT,Apertura - 21
+1210746,2024-11-25T20:00:00-06:00,Santa Ana,AD Guanacasteca,2,1,FT,Apertura - 21
+1210691,2024-11-28T20:00:00-06:00,Municipal Liberia,Deportivo Saprissa,0,1,FT,Apertura - 12
+1210749,2024-11-30T17:00:00-06:00,AD Guanacasteca,LD Alajuelense,1,0,FT,Apertura - 22
+1210754,2024-11-30T20:00:00-06:00,Perez Zeledon,Municipal Liberia,0,1,FT,Apertura - 22
+1210750,2024-12-01T15:00:00-06:00,CS Herediano,Santos DE Guapiles,0,2,FT,Apertura - 22
+1210752,2024-12-01T15:00:00-06:00,Deportivo Saprissa,Santa Ana,2,1,FT,Apertura - 22
+1210751,2024-12-01T15:00:00-06:00,Puntarenas FC,San Carlos,0,1,FT,Apertura - 22
+1210753,2024-12-01T15:00:00-06:00,Sporting San Jose,CS Cartagines,6,2,FT,Apertura - 22
+1318708,2024-12-06T19:30:00-06:00,San Carlos,Deportivo Saprissa,2,2,FT,Apertura - Semi-finals
+1318710,2024-12-08T17:00:00-06:00,CS Herediano,LD Alajuelense,2,0,FT,Apertura - Semi-finals
+1318709,2024-12-10T20:00:00-06:00,Deportivo Saprissa,San Carlos,2,0,FT,Apertura - Semi-finals
+1318711,2024-12-11T20:00:00-06:00,LD Alajuelense,CS Herediano,2,2,FT,Apertura - Semi-finals
+1322475,2024-12-15T17:00:00-06:00,CS Herediano,Deportivo Saprissa,3,0,FT,Apertura - Finals
+1322474,2024-12-18T20:00:00-06:00,Deportivo Saprissa,CS Herediano,2,0,FT,Apertura - Finals
+1325301,2024-12-22T17:00:00-06:00,CS Herediano,LD Alajuelense,2,0,FT,Apertura - Gran Final
+1325302,2024-12-27T18:00:00-06:00,LD Alajuelense,CS Herediano,2,1,FT,Apertura - Gran Final
+1319367,2025-01-10T19:00:00-06:00,AD Guanacasteca,Municipal Liberia,1,0,FT,Clausura - 1
+1319369,2025-01-11T19:00:00-06:00,San Carlos,Deportivo Saprissa,0,1,FT,Clausura - 1
+1319365,2025-01-11T20:00:00-06:00,LD Alajuelense,Santa Ana,6,3,FT,Clausura - 1
+1319366,2025-01-12T11:00:00-06:00,CS Cartagines,Santos DE Guapiles,5,0,FT,Clausura - 1
+1319370,2025-01-12T15:00:00-06:00,Perez Zeledon,Sporting San Jose,1,1,FT,Clausura - 1
+1319368,2025-01-12T15:00:00-06:00,Puntarenas FC,CS Herediano,1,1,FT,Clausura - 1
+1319374,2025-01-14T20:00:00-06:00,Municipal Liberia,LD Alajuelense,1,3,FT,Clausura - 2
+1319372,2025-01-15T16:00:00-06:00,Santos DE Guapiles,San Carlos,1,1,FT,Clausura - 2
+1319371,2025-01-15T17:00:00-06:00,Santa Ana,Puntarenas FC,1,2,FT,Clausura - 2
+1319376,2025-01-15T20:00:00-06:00,CS Herediano,AD Guanacasteca,4,1,FT,Clausura - 2
+1319375,2025-01-16T18:00:00-06:00,Sporting San Jose,CS Cartagines,1,1,FT,Clausura - 2
+1319373,2025-01-16T20:00:00-06:00,Deportivo Saprissa,Perez Zeledon,0,0,FT,Clausura - 2
+1319380,2025-01-18T15:00:00-06:00,Puntarenas FC,Santos DE Guapiles,2,1,FT,Clausura - 3
+1319378,2025-01-19T11:00:00-06:00,CS Cartagines,Municipal Liberia,0,1,FT,Clausura - 3
+1319382,2025-01-19T18:00:00-06:00,Perez Zeledon,Santa Ana,1,0,FT,Clausura - 3
+1319381,2025-01-20T19:00:00-06:00,San Carlos,Sporting San Jose,0,1,FT,Clausura - 3
+1319386,2025-01-22T16:00:00-06:00,Municipal Liberia,Santa Ana,4,0,FT,Clausura - 4
+1319384,2025-01-23T16:00:00-06:00,AD Guanacasteca,Perez Zeledon,0,1,FT,Clausura - 4
+1319383,2025-01-23T20:00:00-06:00,CS Cartagines,San Carlos,2,1,FT,Clausura - 4
+1319392,2025-01-25T16:00:00-06:00,Municipal Liberia,Santos DE Guapiles,0,1,FT,Clausura - 5
+1319391,2025-01-25T20:00:00-06:00,CS Herediano,Deportivo Saprissa,3,1,FT,Clausura - 5
+1319389,2025-01-26T11:00:00-06:00,Santa Ana,Sporting San Jose,1,2,FT,Clausura - 5
+1319390,2025-01-26T18:00:00-06:00,LD Alajuelense,Perez Zeledon,0,0,FT,Clausura - 5
+1319394,2025-01-26T18:00:00-06:00,San Carlos,AD Guanacasteca,1,1,FT,Clausura - 5
+1319399,2025-01-28T18:30:00-06:00,Sporting San Jose,Municipal Liberia,2,1,FT,Clausura - 6
+1319395,2025-01-29T16:00:00-06:00,AD Guanacasteca,Puntarenas FC,1,1,FT,Clausura - 6
+1319396,2025-01-29T19:00:00-06:00,San Carlos,LD Alajuelense,0,0,FT,Clausura - 6
+1319400,2025-01-29T20:00:00-06:00,Deportivo Saprissa,Santos DE Guapiles,1,0,FT,Clausura - 6
+1319398,2025-01-30T20:00:00-06:00,Perez Zeledon,CS Herediano,0,1,FT,Clausura - 6
+1319402,2025-02-01T16:00:00-06:00,Santa Ana,San Carlos,2,2,FT,Clausura - 7
+1319406,2025-02-01T18:00:00-06:00,Santos DE Guapiles,AD Guanacasteca,1,0,FT,Clausura - 7
+1319404,2025-02-01T20:00:00-06:00,Municipal Liberia,Deportivo Saprissa,2,3,FT,Clausura - 7
+1319403,2025-02-02T15:00:00-06:00,CS Herediano,Sporting San Jose,2,0,FT,Clausura - 7
+1319405,2025-02-02T15:00:00-06:00,Puntarenas FC,Perez Zeledon,2,1,FT,Clausura - 7
+1319401,2025-02-02T19:00:00-06:00,LD Alajuelense,CS Cartagines,1,0,FT,Clausura - 7
+1319379,2025-02-04T20:00:00-06:00,AD Guanacasteca,Deportivo Saprissa,2,0,FT,Clausura - 3
+1319377,2025-02-05T20:00:00-06:00,LD Alajuelense,CS Herediano,1,1,FT,Clausura - 3
+1319412,2025-02-07T19:00:00-06:00,Perez Zeledon,San Carlos,1,0,FT,Clausura - 8
+1319410,2025-02-08T16:00:00-06:00,Santos DE Guapiles,Santa Ana,2,3,FT,Clausura - 8
+1319407,2025-02-08T20:00:00-06:00,CS Herediano,Municipal Liberia,2,1,FT,Clausura - 8
+1319408,2025-02-09T11:00:00-06:00,Deportivo Saprissa,LD Alajuelense,1,1,FT,Clausura - 8
+1319409,2025-02-09T15:00:00-06:00,AD Guanacasteca,CS Cartagines,1,0,FT,Clausura - 8
+1319411,2025-02-09T17:00:00-06:00,Sporting San Jose,Puntarenas FC,2,4,FT,Clausura - 8
+1319385,2025-02-12T19:00:00-06:00,Sporting San Jose,LD Alajuelense,0,1,FT,Clausura - 4
+1319388,2025-02-12T20:00:00-06:00,Deportivo Saprissa,Puntarenas FC,0,0,FT,Clausura - 4
+1319397,2025-02-13T20:00:00-06:00,CS Cartagines,Santa Ana,2,1,FT,Clausura - 6
+1319387,2025-02-13T20:00:00-06:00,Santos DE Guapiles,CS Herediano,2,2,FT,Clausura - 4
+1319416,2025-02-14T19:00:00-06:00,Municipal Liberia,Perez Zeledon,2,1,FT,Clausura - 9
+1319413,2025-02-15T19:00:00-06:00,LD Alajuelense,AD Guanacasteca,1,0,FT,Clausura - 9
+1319414,2025-02-16T11:00:00-06:00,CS Cartagines,CS Herediano,0,1,FT,Clausura - 9
+1319415,2025-02-16T15:00:00-06:00,Santa Ana,Deportivo Saprissa,2,1,FT,Clausura - 9
+1319417,2025-02-16T17:00:00-06:00,San Carlos,Puntarenas FC,0,1,FT,Clausura - 9
+1319418,2025-02-17T19:00:00-06:00,Sporting San Jose,Santos DE Guapiles,0,3,FT,Clausura - 9
+1319423,2025-02-21T19:00:00-06:00,AD Guanacasteca,Santa Ana,0,0,FT,Clausura - 10
+1319424,2025-02-22T17:00:00-06:00,Puntarenas FC,Municipal Liberia,2,0,FT,Clausura - 10
+1319419,2025-02-22T20:00:00-06:00,CS Herediano,San Carlos,2,1,FT,Clausura - 10
+1319420,2025-02-23T15:00:00-06:00,Deportivo Saprissa,Sporting San Jose,2,0,FT,Clausura - 10
+1319421,2025-02-23T16:00:00-06:00,Santos DE Guapiles,LD Alajuelense,0,0,FT,Clausura - 10
+1319422,2025-02-23T19:00:00-06:00,Perez Zeledon,CS Cartagines,0,1,FT,Clausura - 10
+1319429,2025-02-28T19:00:00-06:00,San Carlos,Municipal Liberia,1,0,FT,Clausura - 11
+1319426,2025-02-28T20:00:00-06:00,LD Alajuelense,Puntarenas FC,0,0,FT,Clausura - 11
+1319430,2025-03-01T17:00:00-06:00,Perez Zeledon,Santos DE Guapiles,2,1,FT,Clausura - 11
+1319427,2025-03-02T11:00:00-06:00,Santa Ana,CS Herediano,1,1,FT,Clausura - 11
+1319428,2025-03-02T18:00:00-06:00,CS Cartagines,Deportivo Saprissa,2,1,FT,Clausura - 11
+1319425,2025-03-03T19:00:00-06:00,Sporting San Jose,AD Guanacasteca,2,1,FT,Clausura - 11
+1319393,2025-03-05T20:00:00-06:00,Puntarenas FC,CS Cartagines,1,0,FT,Clausura - 5
+1319433,2025-03-08T16:00:00-06:00,Santos DE Guapiles,CS Cartagines,1,1,FT,Clausura - 12
+1319432,2025-03-08T17:00:00-06:00,Municipal Liberia,Sporting San Jose,1,0,FT,Clausura - 12
+1319435,2025-03-08T20:00:00-06:00,CS Herediano,LD Alajuelense,1,2,FT,Clausura - 12
+1319436,2025-03-09T11:00:00-06:00,Santa Ana,Perez Zeledon,0,0,FT,Clausura - 12
+1319431,2025-03-09T15:00:00-06:00,Deportivo Saprissa,San Carlos,3,0,FT,Clausura - 12
+1319434,2025-03-09T17:00:00-06:00,Puntarenas FC,AD Guanacasteca,2,2,FT,Clausura - 12
+1319437,2025-03-14T19:00:00-06:00,AD Guanacasteca,Santos DE Guapiles,0,1,FT,Clausura - 13
+1319439,2025-03-15T19:00:00-06:00,San Carlos,Santa Ana,1,1,FT,Clausura - 13
+1319442,2025-03-15T20:00:00-06:00,Perez Zeledon,Puntarenas FC,0,1,FT,Clausura - 13
+1319438,2025-03-16T11:00:00-06:00,CS Cartagines,LD Alajuelense,1,1,FT,Clausura - 13
+1319441,2025-03-16T16:00:00-06:00,Deportivo Saprissa,Municipal Liberia,1,1,FT,Clausura - 13
+1319440,2025-03-16T18:00:00-06:00,Sporting San Jose,CS Herediano,1,3,FT,Clausura - 13
+1319443,2025-03-25T21:00:00-06:00,Municipal Liberia,AD Guanacasteca,1,1,FT,Clausura - 14
+1319445,2025-03-26T19:00:00-06:00,Puntarenas FC,Sporting San Jose,2,1,FT,Clausura - 14
+1319446,2025-03-26T20:00:00-06:00,CS Herediano,Perez Zeledon,3,0,FT,Clausura - 14
+1319447,2025-03-27T16:00:00-06:00,Santa Ana,CS Cartagines,0,1,FT,Clausura - 14
+1319448,2025-03-27T20:00:00-06:00,LD Alajuelense,San Carlos,0,0,FT,Clausura - 14
+1319444,2025-03-27T20:00:00-06:00,Santos DE Guapiles,Deportivo Saprissa,2,0,FT,Clausura - 14
+1319450,2025-03-29T20:00:00-06:00,AD Guanacasteca,San Carlos,0,2,FT,Clausura - 15
+1319449,2025-03-30T11:00:00-06:00,CS Cartagines,Puntarenas FC,1,0,FT,Clausura - 15
+1319453,2025-03-30T16:00:00-06:00,Deportivo Saprissa,CS Herediano,1,0,FT,Clausura - 15
+1319452,2025-03-30T18:00:00-06:00,Sporting San Jose,Santa Ana,3,1,FT,Clausura - 15
+1319454,2025-03-31T18:00:00-06:00,Santos DE Guapiles,Municipal Liberia,0,1,FT,Clausura - 15
+1319451,2025-03-31T20:00:00-06:00,Perez Zeledon,LD Alajuelense,1,2,FT,Clausura - 15
+1319458,2025-04-04T19:00:00-06:00,San Carlos,Perez Zeledon,0,2,FT,Clausura - 16
+1319459,2025-04-05T16:00:00-06:00,Santa Ana,AD Guanacasteca,0,0,FT,Clausura - 16
+1319460,2025-04-05T19:00:00-06:00,Sporting San Jose,Deportivo Saprissa,0,1,FT,Clausura - 16
+1319456,2025-04-05T20:00:00-06:00,CS Herediano,CS Cartagines,1,1,FT,Clausura - 16
+1319455,2025-04-06T15:00:00-06:00,Municipal Liberia,Puntarenas FC,1,1,FT,Clausura - 16
+1319457,2025-04-06T18:00:00-06:00,LD Alajuelense,Santos DE Guapiles,2,0,FT,Clausura - 16
+1319466,2025-04-11T19:00:00-06:00,Municipal Liberia,CS Herediano,0,1,FT,Clausura - 17
+1319462,2025-04-11T20:00:00-06:00,Puntarenas FC,San Carlos,1,0,FT,Clausura - 17
+1319461,2025-04-12T16:00:00-06:00,CS Cartagines,Perez Zeledon,3,0,FT,Clausura - 17
+1319463,2025-04-12T18:00:00-06:00,Santos DE Guapiles,Sporting San Jose,2,3,FT,Clausura - 17
+1319465,2025-04-12T20:00:00-06:00,Deportivo Saprissa,Santa Ana,3,0,FT,Clausura - 17
+1319464,2025-04-13T15:00:00-06:00,AD Guanacasteca,LD Alajuelense,1,1,FT,Clausura - 17
+1319468,2025-04-15T16:00:00-06:00,Perez Zeledon,AD Guanacasteca,3,0,FT,Clausura - 18
+1319469,2025-04-15T20:00:00-06:00,CS Herediano,Santos DE Guapiles,2,1,FT,Clausura - 18
+1319471,2025-04-15T20:00:00-06:00,Puntarenas FC,Deportivo Saprissa,1,2,FT,Clausura - 18
+1319472,2025-04-16T16:00:00-06:00,Santa Ana,Municipal Liberia,1,4,FT,Clausura - 18
+1319470,2025-04-16T19:00:00-06:00,San Carlos,CS Cartagines,1,2,FT,Clausura - 18
+1319467,2025-04-16T20:00:00-06:00,LD Alajuelense,Sporting San Jose,0,0,FT,Clausura - 18
+1319478,2025-04-19T16:00:00-06:00,Santos DE Guapiles,Puntarenas FC,1,1,FT,Clausura - 19
+1319473,2025-04-19T18:00:00-06:00,Municipal Liberia,San Carlos,0,1,FT,Clausura - 19
+1319474,2025-04-20T11:00:00-06:00,CS Cartagines,AD Guanacasteca,3,0,FT,Clausura - 19
+1319477,2025-04-20T16:00:00-06:00,CS Herediano,Santa Ana,2,1,FT,Clausura - 19
+1319476,2025-04-20T18:00:00-06:00,Sporting San Jose,Perez Zeledon,0,0,FT,Clausura - 19
+1319475,2025-04-21T20:00:00-06:00,LD Alajuelense,Deportivo Saprissa,1,1,FT,Clausura - 19
+1319480,2025-04-25T20:00:00-06:00,Santa Ana,Santos DE Guapiles,3,3,FT,Clausura - 20
+1319481,2025-04-26T16:00:00-06:00,San Carlos,CS Herediano,1,1,FT,Clausura - 20
+1319483,2025-04-26T17:00:00-06:00,AD Guanacasteca,Sporting San Jose,0,3,FT,Clausura - 20
+1319484,2025-04-26T20:00:00-06:00,Deportivo Saprissa,CS Cartagines,1,1,FT,Clausura - 20
+1319479,2025-04-27T15:00:00-06:00,Perez Zeledon,Municipal Liberia,1,5,FT,Clausura - 20
+1319482,2025-04-27T17:00:00-06:00,Puntarenas FC,LD Alajuelense,0,2,FT,Clausura - 20
+1319490,2025-05-02T19:00:00-06:00,Sporting San Jose,San Carlos,1,0,FT,Clausura - 21
+1319486,2025-05-03T16:00:00-06:00,Santos DE Guapiles,Perez Zeledon,3,1,FT,Clausura - 21
+1319488,2025-05-03T17:00:00-06:00,Municipal Liberia,CS Cartagines,0,1,FT,Clausura - 21
+1319485,2025-05-03T20:00:00-06:00,CS Herediano,Puntarenas FC,1,1,FT,Clausura - 21
+1319487,2025-05-04T11:00:00-06:00,Santa Ana,LD Alajuelense,1,1,FT,Clausura - 21
+1319489,2025-05-04T16:00:00-06:00,Deportivo Saprissa,AD Guanacasteca,3,0,FT,Clausura - 21
+1319495,2025-05-06T18:00:00-06:00,San Carlos,Santos DE Guapiles,3,0,FT,Clausura - 22
+1319493,2025-05-07T15:00:00-06:00,AD Guanacasteca,CS Herediano,0,3,FT,Clausura - 22
+1319496,2025-05-07T20:00:00-06:00,Perez Zeledon,Deportivo Saprissa,0,3,FT,Clausura - 22
+1319492,2025-05-07T20:00:00-06:00,CS Cartagines,Sporting San Jose,1,2,FT,Clausura - 22
+1319491,2025-05-07T20:00:00-06:00,LD Alajuelense,Municipal Liberia,2,0,FT,Clausura - 22
+1319494,2025-05-07T20:00:00-06:00,Puntarenas FC,Santa Ana,3,0,FT,Clausura - 22
+1374863,2025-05-11T16:00:00-06:00,Deportivo Saprissa,CS Herediano,4,0,FT,Clausura - Semi-finals
+1374865,2025-05-11T19:00:00-06:00,Puntarenas FC,LD Alajuelense,0,0,FT,Clausura - Semi-finals
+1374866,2025-05-14T18:45:00-06:00,LD Alajuelense,Puntarenas FC,1,0,AET,Clausura - Semi-finals
+1374864,2025-05-14T20:45:00-06:00,CS Herediano,Deportivo Saprissa,2,0,FT,Clausura - Semi-finals
+1375651,2025-05-18T15:00:00-06:00,Deportivo Saprissa,LD Alajuelense,3,3,FT,Clausura - Finals
+1375652,2025-05-21T20:00:00-06:00,LD Alajuelense,Deportivo Saprissa,1,0,FT,Clausura - Finals
+1376143,2025-05-25T17:00:00-06:00,LD Alajuelense,CS Herediano,0,0,FT,Clausura - Gran Final
+1376144,2025-05-28T20:00:00-06:00,CS Herediano,LD Alajuelense,1,0,FT,Clausura - Gran Final
